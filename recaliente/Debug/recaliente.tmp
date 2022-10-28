@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\pijua\Desktop\Julián\ucu\Micro\recaliente\recaliente\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\pijua\Desktop\Julián\ucu\Micro\recaliente\recaliente\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\pijua\Desktop\Julián\ucu\Micro\recaliente\recaliente\Debug\recaliente.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>recaliente.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>recaliente.map</FILE>
+  <FILE>recaliente.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\pijua\Desktop\Julián\ucu\Micro\recaliente\recaliente\main.asm</FILE><LINE>32</LINE></start>
+  <PCI1_IRQSRV><FILE>C:\Users\pijua\Desktop\Julián\ucu\Micro\recaliente\recaliente\main.asm</FILE><LINE>88</LINE></PCI1_IRQSRV>
+  <apagado><FILE>C:\Users\pijua\Desktop\Julián\ucu\Micro\recaliente\recaliente\main.asm</FILE><LINE>57</LINE></apagado>
+  <apagadoloop><FILE>C:\Users\pijua\Desktop\Julián\ucu\Micro\recaliente\recaliente\main.asm</FILE><LINE>60</LINE></apagadoloop>
+  <encendido><FILE>C:\Users\pijua\Desktop\Julián\ucu\Micro\recaliente\recaliente\main.asm</FILE><LINE>67</LINE></encendido>
+  <delay_1s><FILE>C:\Users\pijua\Desktop\Julián\ucu\Micro\recaliente\recaliente\main.asm</FILE><LINE>120</LINE></delay_1s>
+  <endisr><FILE>C:\Users\pijua\Desktop\Julián\ucu\Micro\recaliente\recaliente\main.asm</FILE><LINE>102</LINE></endisr>
+  <toggle><FILE>C:\Users\pijua\Desktop\Julián\ucu\Micro\recaliente\recaliente\main.asm</FILE><LINE>98</LINE></toggle>
+  <loop1><FILE>C:\Users\pijua\Desktop\Julián\ucu\Micro\recaliente\recaliente\main.asm</FILE><LINE>129</LINE></loop1>
+ </LABELS>
+</ASSEMBLER_INFO>
